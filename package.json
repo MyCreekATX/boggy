@@ -24,7 +24,10 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "materialize-css": "^0.97.1",
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "twit": "^2.1.0"
   }
 }
